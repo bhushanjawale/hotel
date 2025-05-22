@@ -23,9 +23,9 @@ JavaScript for interactivity
 
 GitHub Pages for hosting
 
-Visit the live site: https://mohitgingale.github.io/hotel/
+Visit the live site: https://bhushanjawale.github.io/hotel/
 
-Website Created By Mohit Govind Ingale
+Website Created By Bhushan Sunil Jawale
 
 
 
